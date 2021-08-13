@@ -6,4 +6,7 @@ Public class Properties
 		}
 }
 
-I am adding new content for java code
+
+I am adding new content 
+I am adding some content
+
